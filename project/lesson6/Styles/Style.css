@@ -1,0 +1,62 @@
+body{
+	background: #5e5b5b;
+}
+
+.box{
+width: 1000px;
+height: 500px;
+background: #d1cdcd;
+padding-top: 100px;
+padding-left: 15px;
+margin-left: 130px;
+margin-top: 150px; 
+position: relative;
+}
+
+.container{
+	display: flex;
+	width: 990px;
+	height: 400px;
+	background-color: #fff;			
+	position: absolute;
+}
+.picture {
+	width: 50%;
+	height: 100%;
+
+
+}
+.pic{
+	width: 100%;
+	height: 100%;
+}
+	.box-cont{
+   margin-top: 70px;
+	}
+	.description, .price{
+		font-size: 13px;
+	}
+
+	.price{
+			margin-top: 20px;
+	}
+	.num{
+		margin-top: 10px;
+	}
+	button{
+		width: 200px;
+		height: 50px;
+		margin-top: 20px;
+		background: #f56d33; 
+	}
+	.button {
+   color: #fff
+	}
+
+
+
+  
+
+
+	
+

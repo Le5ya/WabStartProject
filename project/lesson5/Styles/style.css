@@ -1,0 +1,63 @@
+body {
+		background: #7a6e3e;
+	
+}
+
+p {
+	margin: 0 40px;
+}
+
+.container{
+background : #e0c8bf;
+}
+
+.entry {
+	background: #9e6652;
+	border: green solid 5px;
+}
+.chapter {
+text-align: center;
+}
+.list {
+	list-style-position: inside;
+	margin-left: 500px;
+	text-align: left;
+}
+.bold {
+	font-weight: bold;
+
+}
+
+.italic {
+	font-style: italic;
+	font-weight: 70;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.one {
+	background-color: #9e8052;
+	margin:0 40px;
+}
+
+.two {
+	background-color: #43806e;
+	margin:0 40px;
+}
+
+.three{
+	background-color: #53907e;
+	margin:0 40px;
+}
+
+.four {
+	background-color: #7e3056 ;
+	margin:0 40px;
+}
+
+.five {
+	background-color: #9e5278 ;
+	margin:0 40px;
+}

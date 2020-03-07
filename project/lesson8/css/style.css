@@ -1,0 +1,184 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: sans-serif;
+	color: #32325F;
+}
+
+.container {
+max-width: 1140px;
+width: 96%; 
+margin-left: auto;
+margin-right: auto;
+}
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 159px;
+}
+.brend {
+  opacity:1;
+  color:#95989A;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-right: 20px;
+}
+.hero {
+	padding-top: 70px;
+	padding-bottom: 190px;
+	background-color: #F4F5F7;
+}
+.main {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.main-text {
+width: 50%;
+
+
+}
+
+.subtitle {
+	font-size: 20px;
+	font-weight: 400;
+	display: block;
+	margin-bottom: 15px;
+}
+
+.title {
+color:#32325F;
+font-size:48px;
+font-weight: 700;
+display: block;
+margin-bottom: 26px;
+}
+
+.description {
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 26px;
+	margin-bottom: 16px;
+}
+
+.price-tag {
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 20px;
+	display: block;
+}
+.price {
+	display: block;
+	margin-bottom: 49px;
+	font-size: 48px;
+	font-weight: 400;
+}
+
+.btn {
+	text-decoration: none;
+	box-shadow: 0 3px 6px rgba(173, 173, 173, 0.16);
+	border-radius: 6px;
+	padding: 20px 30px;
+	color: #fff;
+	background-color: grey;
+
+}
+.btn-success {
+	background-color: #2dce89;
+	margin-right: 26px;
+}
+.btn-primery{
+	background-color: #5E72E4;
+}
+/*оформление секций*/
+.section-headding {
+	display: block;
+	font-size: 20px;
+	font-weight: 400;
+}
+.section-title {
+ font-size: 48px;
+ font-weight: 700;
+}
+
+.section {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.wrap{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin-top: 100px;
+}
+.block{
+	width: 23%;
+	margin-right: 2%;
+}
+
+.block-text {
+	font-style: 16px;
+	font-weight: 400;
+	margin: 40px 0;
+	line-height: 1.4;
+}
+
+.footer {
+	background-color: #32325F;
+	color: #fff;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+ .footer-wrap {
+	 display: flex;
+	 justify-content: space-between;
+}
+
+.footer-block {
+	width: 33%;
+}
+
+.footer-title {
+	font-size: 24px;
+	font-weight: 700;
+	margin-top: 35px;
+}
+
+.footer a{
+	display: block;
+	color: #fff;
+	margin-bottom: 5px;
+}
+.footer a{
+	line-height: 1.4;
+
+}
+
+.container-peaple {
+	width: 796px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+
+.row-portraits{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+}
+.person {
+	width: 260px;
+	height: 190px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+}
+
+

@@ -1,0 +1,19 @@
+body {
+background: #5ea7ff;
+}
+
+header {
+	margin-bottom: 25px;
+	text-align: center;
+
+}
+
+img {
+	margin-bottom: 25px;
+	margin-left: 18px;
+	align-items: center;
+}
+
+.text {
+	text-align: center;
+}
